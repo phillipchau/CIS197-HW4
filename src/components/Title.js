@@ -7,6 +7,6 @@ const StyledH1 = s.h1`
   padding-bottom:10px;
 `
 
-const Title = () => ( <StyledH1> CIS 197 HW 4 </StyledH1> )
+const Title = () => (<StyledH1> CIS 197 HW 4 </StyledH1>)
 
 export default Title
